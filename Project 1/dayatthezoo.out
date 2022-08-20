@@ -1,0 +1,1339 @@
+Input the number of days to run the Zoo:	
+7
+
+
+Zookeeper arrives to the Zoo on Day 1.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog peacefully roams around.
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is tired, and goes to sleep peacefully.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is tired, and goes to sleep peacefully.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is not tired, and decides to vocally growl instead.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 1 and leaves the Zoo.
+
+
+Zookeeper arrives to the Zoo on Day 2.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog doesn't want to exercise, and digs a hole instead!
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo decides not to roam, and charges instead!
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is tired, and goes to sleep peacefully.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is not tired, and decides to vocally growl instead.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is not tired, and decides to roam around instead.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is not tired, and decides to roam around instead.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 2 and leaves the Zoo.
+
+
+Zookeeper arrives to the Zoo on Day 3.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog peacefully roams around.
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo decides not to roam, and charges instead!
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is tired, and goes to sleep peacefully.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is not tired, and decides to roam around instead.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is tired, and goes to sleep peacefully.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is not tired, and decides to vocally growl instead.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is not tired, and decides to vocally growl instead.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is not tired, and decides to roam around instead.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 3 and leaves the Zoo.
+
+
+Zookeeper arrives to the Zoo on Day 4.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog peacefully roams around.
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo decides not to roam, and charges instead!
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is tired, and goes to sleep peacefully.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is not tired, and decides to vocally growl instead.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is not tired, and decides to roam around instead.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is not tired, and decides to vocally growl instead.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 4 and leaves the Zoo.
+
+
+Zookeeper arrives to the Zoo on Day 5.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog peacefully roams around.
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo decides not to roam, and charges instead!
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is tired, and goes to sleep peacefully.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is not tired, and decides to vocally growl instead.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is tired, and goes to sleep peacefully.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 5 and leaves the Zoo.
+
+
+Zookeeper arrives to the Zoo on Day 6.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog peacefully roams around.
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is not tired, and decides to vocally growl instead.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is not tired, and decides to roam around instead.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is not tired, and decides to vocally growl instead.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 6 and leaves the Zoo.
+
+
+Zookeeper arrives to the Zoo on Day 7.
+
+Zookeeper wakes up Charlie the Cat.
+Charlie the Cat wakes up.
+Zookeeper wakes up Connor the Cat.
+Connor the Cat wakes up.
+Zookeeper wakes up Darcy the Dog.
+Darcy the Dog wakes up.
+Zookeeper wakes up David the Dog.
+David the Dog wakes up.
+Zookeeper wakes up Ernie the Elephant.
+Ernie the Elephant wakes up.
+Zookeeper wakes up Eva the Elephant.
+Eva the Elephant wakes up.
+Zookeeper wakes up George the Gecko.
+George the Gecko wakes up.
+Zookeeper wakes up Gale the Gecko.
+Gale the Gecko wakes up.
+Zookeeper wakes up Henry the Hippo.
+Henry the Hippo wakes up.
+Zookeeper wakes up Harrison the Hippo.
+Harrison the Hippo wakes up.
+Zookeeper wakes up Larry the Lion.
+Larry the Lion wakes up.
+Zookeeper wakes up Leslie the Lion.
+Leslie the Lion wakes up.
+Zookeeper wakes up Rex the Rhino.
+Rex the Rhino wakes up.
+Zookeeper wakes up Roger the Rhino.
+Roger the Rhino wakes up.
+Zookeeper wakes up Slither the Snake.
+Slither the Snake wakes up.
+Zookeeper wakes up Sally the Snake.
+Sally the Snake wakes up.
+Zookeeper wakes up Tom the Tiger.
+Tom the Tiger wakes up.
+Zookeeper wakes up Tabitha the Tiger.
+Tabitha the Tiger wakes up.
+Zookeeper wakes up Wendy the Wolf.
+Wendy the Wolf wakes up.
+Zookeeper wakes up William the Wolf.
+William the Wolf wakes up.
+
+Zookeeper performs roll call.
+Zookeeper sees Charlie the Cat.
+Zookeeper sees Connor the Cat.
+Zookeeper sees Darcy the Dog.
+Zookeeper sees David the Dog.
+Zookeeper sees Ernie the Elephant.
+Zookeeper sees Eva the Elephant.
+Zookeeper sees George the Gecko.
+Zookeeper sees Gale the Gecko.
+Zookeeper sees Henry the Hippo.
+Zookeeper sees Harrison the Hippo.
+Zookeeper sees Larry the Lion.
+Zookeeper sees Leslie the Lion.
+Zookeeper sees Rex the Rhino.
+Zookeeper sees Roger the Rhino.
+Zookeeper sees Slither the Snake.
+Zookeeper sees Sally the Snake.
+Zookeeper sees Tom the Tiger.
+Zookeeper sees Tabitha the Tiger.
+Zookeeper sees Wendy the Wolf.
+Zookeeper sees William the Wolf.
+
+Zookeeper feeds Charlie the Cat.
+Charlie the Cat eats some fresh tuna.
+Zookeeper feeds Connor the Cat.
+Connor the Cat eats some fresh tuna.
+Zookeeper feeds Darcy the Dog.
+Darcy the Dog has a sizeable steak for his meal.
+Zookeeper feeds David the Dog.
+David the Dog has a sizeable steak for his meal.
+Zookeeper feeds Ernie the Elephant.
+Ernie the Elephant grazes and eats some grass.
+Zookeeper feeds Eva the Elephant.
+Eva the Elephant grazes and eats some grass.
+Zookeeper feeds George the Gecko.
+George the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Gale the Gecko.
+Gale the Gecko eats a wonderful meal of insects.
+Zookeeper feeds Henry the Hippo.
+Henry the Hippo grazes and eats some grass.
+Zookeeper feeds Harrison the Hippo.
+Harrison the Hippo grazes and eats some grass.
+Zookeeper feeds Larry the Lion.
+Larry the Lion feasts on some prey.
+Zookeeper feeds Leslie the Lion.
+Leslie the Lion feasts on some prey.
+Zookeeper feeds Rex the Rhino.
+Rex the Rhino grazes and eats some grass.
+Zookeeper feeds Roger the Rhino.
+Roger the Rhino grazes and eats some grass.
+Zookeeper feeds Slither the Snake.
+Slither the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Sally the Snake.
+Sally the Snake eats a large mouse in a single gulp.
+Zookeeper feeds Tom the Tiger.
+Tom the Tiger feasts on some prey.
+Zookeeper feeds Tabitha the Tiger.
+Tabitha the Tiger feasts on some prey.
+Zookeeper feeds Wendy the Wolf.
+Wendy the Wolf has a sizeable steak for his meal.
+Zookeeper feeds William the Wolf.
+William the Wolf has a sizeable steak for his meal.
+
+Zookeeper exercises Charlie the Cat.
+Charlie the Cat lazily moves around.
+Zookeeper exercises Connor the Cat.
+Connor the Cat lazily moves around.
+Zookeeper exercises Darcy the Dog.
+Darcy the Dog peacefully roams around.
+Zookeeper exercises David the Dog.
+David the Dog peacefully roams around.
+Zookeeper exercises Ernie the Elephant.
+Ernie the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises Eva the Elephant.
+Eva the Elephant peacefully (albeit quite loudly) roams.
+Zookeeper exercises George the Gecko.
+George the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Gale the Gecko.
+Gale the Gecko quickly crawls up a tree branch.
+Zookeeper exercises Henry the Hippo.
+Henry the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Harrison the Hippo.
+Harrison the Hippo peacefully (albeit quite loudly) roams.
+Zookeeper exercises Larry the Lion.
+Larry the Lion lazily moves around.
+Zookeeper exercises Leslie the Lion.
+Leslie the Lion lazily moves around.
+Zookeeper exercises Rex the Rhino.
+Rex the Rhino peacefully (albeit quite loudly) roams.
+Zookeeper exercises Roger the Rhino.
+Roger the Rhino decides not to roam, and charges instead!
+Zookeeper exercises Slither the Snake.
+Slither the Snake slithers around.
+Zookeeper exercises Sally the Snake.
+Sally the Snake slithers around.
+Zookeeper exercises Tom the Tiger.
+Tom the Tiger lazily moves around.
+Zookeeper exercises Tabitha the Tiger.
+Tabitha the Tiger lazily moves around.
+Zookeeper exercises Wendy the Wolf.
+Wendy the Wolf runs around at an impressive pace.
+Zookeeper exercises William the Wolf.
+William the Wolf runs around at an impressive pace.
+
+Zookeeper tells Charlie the Cat to go to sleep.
+Charlie the Cat is not tired, and decides to roam around instead.
+Zookeeper tells Connor the Cat to go to sleep.
+Connor the Cat is tired, and goes to sleep peacefully.
+Zookeeper tells Darcy the Dog to go to sleep.
+Darcy the Dog sleeps.
+Zookeeper tells David the Dog to go to sleep.
+David the Dog sleeps.
+Zookeeper tells Ernie the Elephant to go to sleep.
+Ernie the Elephant sleeps.
+Zookeeper tells Eva the Elephant to go to sleep.
+Eva the Elephant sleeps.
+Zookeeper tells George the Gecko to go to sleep.
+George the Gecko sleeps.
+Zookeeper tells Gale the Gecko to go to sleep.
+Gale the Gecko sleeps.
+Zookeeper tells Henry the Hippo to go to sleep.
+Henry the Hippo sleeps.
+Zookeeper tells Harrison the Hippo to go to sleep.
+Harrison the Hippo sleeps.
+Zookeeper tells Larry the Lion to go to sleep.
+Larry the Lion is tired, and goes to sleep peacefully.
+Zookeeper tells Leslie the Lion to go to sleep.
+Leslie the Lion is not tired, and decides to roam around instead.
+Zookeeper tells Rex the Rhino to go to sleep.
+Rex the Rhino sleeps.
+Zookeeper tells Roger the Rhino to go to sleep.
+Roger the Rhino sleeps.
+Zookeeper tells Slither the Snake to go to sleep.
+Slither the Snake sleeps.
+Zookeeper tells Sally the Snake to go to sleep.
+Sally the Snake sleeps.
+Zookeeper tells Tom the Tiger to go to sleep.
+Tom the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Tabitha the Tiger to go to sleep.
+Tabitha the Tiger is tired, and goes to sleep peacefully.
+Zookeeper tells Wendy the Wolf to go to sleep.
+Wendy the Wolf sleeps.
+Zookeeper tells William the Wolf to go to sleep.
+William the Wolf sleeps.
+
+Zookeeper has completed all of their tasks for Day 7 and leaves the Zoo.

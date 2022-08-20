@@ -1,0 +1,4779 @@
+-----------------
+DAY NUMBER:	1
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	30
+Sausage Roll	30
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Spring Roll, Sweet & Sour Sauce
+	Price:	3.20
+	TOTAL:	3.20
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.56
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.56
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	7.72
+	Price:	3.50
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.19
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.19
+	Item:	Spring Roll, Shredded Carrot Topping
+	Price:	3.77
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.85
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.85
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.84
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.55
+	TOTAL:	72.41
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	TOTAL:	3.15
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	TOTAL:	8.64
+
+Order for Catering Customer:
+	Item:	Egg Roll, Bean Sprouts Topping, Soy Sauce
+	Price:	3.33
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.78
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Cranberry Sauce
+	Price:	2.65
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Honey Sauce
+	Price:	4.53
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce
+	Price:	4.85
+	Item:	Spring Roll, Bean Sprouts Topping, Soy Sauce
+	Price:	3.77
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping
+	Price:	5.02
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.60
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.94
+	Item:	Spring Roll, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	3.97
+	TOTAL:	65.01
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	TOTAL:	5.71
+
+Order for Catering Customer:
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.58
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Price:	2.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.10
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.18
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.18
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.70
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Cranberry Sauce
+	Price:	4.95
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.65
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	Item:	Spring Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.40
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.27
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	TOTAL:	62.73
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	TOTAL:	5.62
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	TOTAL:	14.89
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Cranberry Sauce
+	Price:	5.30
+	TOTAL:	5.30
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Soy Sauce
+	Price:	6.27
+	TOTAL:	13.37
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.65
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	TOTAL:	8.14
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Price:	2.25
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.53
+	Price:	2.00
+	Price:	3.50
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	7.62
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.92
+	Item:	Spring Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.30
+	TOTAL:	42.85
+
+END OF DAY INVENTORY:
+Egg Roll	12
+Jelly Roll	21
+Pastry Roll	16
+Sausage Roll	21
+Spring Roll	11
+
+TOTAL PAYMENTS:
+	Business:	42.85
+	Casual:	68.02
+	Catering:	200.15
+	OVERALL:	311.02
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	17
+	Jelly Roll:	8
+	Pastry Roll:	13
+	Sausage Roll:	7
+	Spring Roll:	19
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	2
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	12
+Jelly Roll	21
+Pastry Roll	16
+Sausage Roll	21
+Spring Roll	11
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce
+	Price:	4.59
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	TOTAL:	12.73
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.39
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping
+	Price:	6.15
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Soy Sauce
+	Price:	5.47
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Soy Sauce
+	Price:	5.02
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.22
+	TOTAL:	48.42
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.68
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.31
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Pastry Roll, Cranberry Sauce
+	Price:	2.65
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	Item:	Pastry Roll, Sugar Topping
+	Price:	2.80
+	Item:	Pastry Roll, Cranberry Sauce
+	Price:	2.65
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Soy Sauce
+	Price:	7.22
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce
+	Price:	7.50
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.12
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Soy Sauce
+	Price:	7.22
+	TOTAL:	70.10
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.31
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.83
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.92
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.99
+	Item:	Spring Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.30
+	TOTAL:	52.13
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Jelly Roll, Sugar Topping, Cranberry Sauce
+	Price:	3.80
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Nutella Sauce
+	Price:	4.28
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Honey Sauce, Nutella Sauce
+	Price:	2.78
+	Item:	Pastry Roll, Honey Sauce, Nutella Sauce
+	Price:	2.78
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping
+	Price:	6.20
+	Item:	Sausage Roll, Cheese Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.59
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	TOTAL:	74.09
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	TOTAL:	6.64
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.68
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.54
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	6.77
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping
+	Price:	5.02
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	TOTAL:	53.19
+
+END OF DAY INVENTORY:
+Egg Roll	1
+Jelly Roll	5
+Pastry Roll	0
+Sausage Roll	5
+Spring Roll	5
+
+TOTAL PAYMENTS:
+	Business:	153.74
+	Casual:	19.37
+	Catering:	144.19
+	OVERALL:	317.30
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	11
+	Jelly Roll:	16
+	Pastry Roll:	16
+	Sausage Roll:	16
+	Spring Roll:	6
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	3
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	1
+Jelly Roll	5
+Pastry Roll	30
+Sausage Roll	5
+Spring Roll	5
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	TOTAL:	4.30
+
+Order for Casual Customer:
+	Price:	2.25
+	TOTAL:	2.25
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	4.90
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Nutella Sauce
+	Price:	4.95
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Pastry Roll, Honey Sauce, Nutella Sauce
+	Price:	2.78
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	Price:	2.00
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	TOTAL:	64.52
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	7.62
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	7.72
+	Item:	Sausage Roll, Spicy Mayo Sauce
+	Price:	3.90
+	TOTAL:	83.76
+
+Order for Catering Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.73
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Honey Sauce, Cranberry Sauce
+	Price:	2.88
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	4.60
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.93
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.35
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Cranberry Sauce
+	Price:	4.95
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.73
+	TOTAL:	73.23
+	Item:	Spring Roll, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.07
+	Item:	Spring Roll, Soy Sauce
+	Price:	3.10
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	TOTAL:	86.09
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.99
+	TOTAL:	5.99
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	4
+Sausage Roll	2
+Spring Roll	1
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	12.54
+	Catering:	307.60
+	OVERALL:	320.14
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	2
+	Catering:	2
+
+INVENTORY ORDERS:
+	Egg Roll:	1
+	Jelly Roll:	4
+	Pastry Roll:	25
+	Sausage Roll:	3
+	Spring Roll:	4
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	4
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	4
+Sausage Roll	2
+Spring Roll	1
+
+CUSTOMER ORDERS:
+
+Order for Catering Customer:
+	Price:	2.50
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	2.90
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.90
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.11
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	TOTAL:	61.86
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.55
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.60
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce
+	Price:	3.70
+	TOTAL:	12.85
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	2.90
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.88
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	3.85
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	5.21
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	TOTAL:	63.40
+	Item:	Sausage Roll, Cheese Topping
+	Price:	4.40
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	TOTAL:	73.89
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	TOTAL:	81.83
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.80
+	TOTAL:	4.80
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	24
+Pastry Roll	4
+Sausage Roll	0
+Spring Roll	1
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	17.65
+	Catering:	280.98
+	OVERALL:	298.63
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	3
+	Casual:	2
+	Catering:	2
+
+INVENTORY ORDERS:
+	Egg Roll:	29
+	Jelly Roll:	6
+	Pastry Roll:	0
+	Sausage Roll:	2
+	Spring Roll:	0
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	5
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	24
+Pastry Roll	4
+Sausage Roll	30
+Spring Roll	1
+
+CUSTOMER ORDERS:
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.78
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Item:	Egg Roll, Sweet & Sour Sauce
+	Price:	2.75
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Price:	2.50
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	TOTAL:	58.84
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	TOTAL:	12.61
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.70
+	Item:	Pastry Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	3.68
+	TOTAL:	8.38
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.54
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Cranberry Sauce
+	Price:	5.40
+	TOTAL:	10.94
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.65
+	TOTAL:	15.59
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	4.53
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	3.75
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.00
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.56
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.68
+	Item:	Egg Roll, Bean Sprouts Topping, Soy Sauce
+	Price:	3.33
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.00
+	TOTAL:	62.40
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.69
+	TOTAL:	68.09
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	7.72
+	TOTAL:	75.81
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Sausage Roll, Cheese Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.59
+	TOTAL:	17.88
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.02
+	TOTAL:	4.02
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce
+	Price:	4.59
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Jelly Roll, Frosting Filling, Cranberry Sauce
+	Price:	4.20
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.80
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.29
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.29
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.39
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce
+	Price:	3.70
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	TOTAL:	79.20
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	7
+Pastry Roll	0
+Sausage Roll	24
+Spring Roll	0
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	69.42
+	Catering:	344.34
+	OVERALL:	413.76
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	3
+	Casual:	4
+	Catering:	3
+
+INVENTORY ORDERS:
+	Egg Roll:	29
+	Jelly Roll:	17
+	Pastry Roll:	4
+	Sausage Roll:	6
+	Spring Roll:	1
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	6
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	7
+Pastry Roll	30
+Sausage Roll	24
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	TOTAL:	3.20
+
+Order for Catering Customer:
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	3.53
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping
+	Price:	3.28
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.46
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.29
+	Price:	2.25
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping
+	Price:	6.15
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	TOTAL:	75.40
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	TOTAL:	5.25
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Price:	2.50
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Price:	2.00
+	Item:	Sausage Roll, Spicy Mayo Sauce
+	Price:	3.90
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.87
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	Item:	Spring Roll, Spicy Mayo Sauce
+	Price:	3.30
+	TOTAL:	42.31
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	4.43
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	TOTAL:	10.86
+
+Order for Catering Customer:
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	Item:	Pastry Roll, Honey Sauce, Cranberry Sauce
+	Price:	2.88
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.53
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Price:	3.50
+	Item:	Sausage Roll, Spicy Mayo Sauce
+	Price:	3.90
+	Item:	Sausage Roll, Cheese Topping, Soy Sauce
+	Price:	4.52
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.69
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	4.55
+	Item:	Spring Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.27
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.17
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	4.45
+	TOTAL:	68.41
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Soy Sauce
+	Price:	2.65
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	3.75
+	Price:	2.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Sausage Roll, Bacon Bits Topping, Soy Sauce
+	Price:	4.57
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce
+	Price:	4.80
+	Item:	Sausage Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.02
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.69
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	6.67
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.22
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.22
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	Item:	Spring Roll, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.97
+	TOTAL:	68.06
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce
+	Price:	4.88
+	TOTAL:	4.88
+
+END OF DAY INVENTORY:
+Egg Roll	15
+Jelly Roll	0
+Pastry Roll	21
+Sausage Roll	6
+Spring Roll	18
+
+TOTAL PAYMENTS:
+	Business:	42.31
+	Casual:	24.19
+	Catering:	211.87
+	OVERALL:	278.37
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	13
+	Jelly Roll:	6
+	Pastry Roll:	8
+	Sausage Roll:	17
+	Spring Roll:	12
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	7
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	15
+Jelly Roll	30
+Pastry Roll	21
+Sausage Roll	6
+Spring Roll	18
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.73
+	TOTAL:	4.73
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Price:	3.50
+	TOTAL:	12.99
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.43
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.00
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	4.90
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.18
+	Item:	Sausage Roll, Bacon Bits Topping
+	Price:	4.45
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.04
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.07
+	TOTAL:	48.03
+
+Order for Casual Customer:
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.17
+	TOTAL:	4.17
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce
+	Price:	3.70
+	TOTAL:	9.78
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	5.21
+	TOTAL:	5.21
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	5.22
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	4.45
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.94
+	TOTAL:	14.61
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce
+	Price:	3.74
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	TOTAL:	9.29
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Price:	2.50
+	TOTAL:	6.46
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	4.43
+	Price:	2.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.43
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping
+	Price:	5.02
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	6.09
+	Item:	Spring Roll, Shredded Carrot Topping
+	Price:	3.77
+	Price:	3.00
+	Item:	Spring Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.37
+	TOTAL:	67.71
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	TOTAL:	16.40
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.73
+	Price:	2.00
+	TOTAL:	10.68
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	TOTAL:	13.81
+
+END OF DAY INVENTORY:
+Egg Roll	5
+Jelly Roll	23
+Pastry Roll	5
+Sausage Roll	1
+Spring Roll	7
+
+TOTAL PAYMENTS:
+	Business:	48.03
+	Casual:	108.13
+	Catering:	67.71
+	OVERALL:	223.87
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	8
+	Jelly Roll:	7
+	Pastry Roll:	15
+	Sausage Roll:	4
+	Spring Roll:	10
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	8
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	5
+Jelly Roll	23
+Pastry Roll	5
+Sausage Roll	1
+Spring Roll	7
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Nutella Sauce
+	Price:	2.55
+	TOTAL:	2.55
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	TOTAL:	7.13
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.54
+	TOTAL:	9.89
+
+Order for Casual Customer:
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.50
+	Price:	3.00
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.64
+	TOTAL:	11.14
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	3.94
+	Price:	2.25
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	5.19
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.24
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce
+	Price:	3.69
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Cranberry Sauce
+	Price:	5.05
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Nutella Sauce
+	Price:	4.34
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce
+	Price:	3.70
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.29
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	TOTAL:	67.01
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	9
+Pastry Roll	4
+Sausage Roll	1
+Spring Roll	4
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	30.71
+	Catering:	67.01
+	OVERALL:	97.72
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	0
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	5
+	Jelly Roll:	13
+	Pastry Roll:	1
+	Sausage Roll:	0
+	Spring Roll:	2
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	9
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	9
+Pastry Roll	4
+Sausage Roll	1
+Spring Roll	4
+
+CUSTOMER ORDERS:
+
+Order for Catering Customer:
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.78
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.00
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.31
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.00
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.00
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.11
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	TOTAL:	61.00
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	TOTAL:	7.84
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.56
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	4.43
+	Item:	Egg Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.00
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.11
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.68
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.56
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	TOTAL:	62.75
+
+Order for Casual Customer:
+	Price:	3.00
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	TOTAL:	6.67
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Nutella Sauce
+	Price:	4.34
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.75
+	Item:	Jelly Roll, Cranberry Sauce
+	Price:	2.95
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	5.19
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	4.90
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.04
+	Item:	Pastry Roll, Honey Sauce, Cranberry Sauce
+	Price:	2.88
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Item:	Pastry Roll, Cranberry Sauce
+	Price:	2.65
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.99
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	0
+Sausage Roll	0
+Spring Roll	0
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	14.51
+	Catering:	123.75
+	OVERALL:	138.26
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	1
+	Catering:	3
+
+INVENTORY ORDERS:
+	Egg Roll:	30
+	Jelly Roll:	9
+	Pastry Roll:	4
+	Sausage Roll:	1
+	Spring Roll:	3
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	10
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	30
+Sausage Roll	30
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.80
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	Item:	Pastry Roll, Honey Sauce, Cranberry Sauce
+	Price:	2.88
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce
+	Price:	5.20
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.79
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.85
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.07
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	TOTAL:	74.54
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.04
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Nutella Sauce
+	Price:	4.34
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.23
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.38
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	Item:	Sausage Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.84
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	TOTAL:	69.42
+
+Order for Casual Customer:
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	TOTAL:	4.44
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce
+	Price:	3.73
+	TOTAL:	12.96
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	TOTAL:	6.09
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.99
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.14
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	6.42
+	TOTAL:	17.55
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	7.62
+	TOTAL:	12.97
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	TOTAL:	8.21
+
+Order for Catering Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.33
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.10
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.92
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce
+	Price:	5.65
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	Item:	Spring Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.37
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.04
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.27
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.85
+	TOTAL:	84.79
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Cranberry Sauce
+	Price:	4.20
+	TOTAL:	4.20
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.38
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping
+	Price:	6.15
+	Item:	Sausage Roll, Cheese Filling, Soy Sauce
+	Price:	5.37
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.74
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.60
+	TOTAL:	48.37
+
+Order for Casual Customer:
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.27
+	Item:	Spring Roll, Shredded Carrot Topping
+	Price:	3.77
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	TOTAL:	11.71
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	4.55
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.60
+	TOTAL:	8.15
+
+END OF DAY INVENTORY:
+Egg Roll	26
+Jelly Roll	17
+Pastry Roll	10
+Sausage Roll	12
+Spring Roll	12
+
+TOTAL PAYMENTS:
+	Business:	48.37
+	Casual:	86.28
+	Catering:	228.75
+	OVERALL:	363.40
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	4
+	Jelly Roll:	13
+	Pastry Roll:	20
+	Sausage Roll:	18
+	Spring Roll:	18
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	11
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	26
+Jelly Roll	17
+Pastry Roll	10
+Sausage Roll	12
+Spring Roll	12
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Price:	3.00
+	Price:	3.00
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.74
+	TOTAL:	10.74
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.55
+	TOTAL:	14.43
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.12
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	TOTAL:	16.31
+
+Order for Catering Customer:
+	Price:	2.25
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.54
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.07
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	7.32
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping
+	Price:	6.20
+	Item:	Spring Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.40
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	4.45
+	Item:	Spring Roll, Shredded Carrot Topping, Soy Sauce
+	Price:	3.87
+	Item:	Spring Roll, Sweet & Sour Sauce
+	Price:	3.20
+	Item:	Spring Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.40
+	TOTAL:	69.52
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.49
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce
+	Price:	3.35
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	5.57
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	TOTAL:	55.26
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.68
+	TOTAL:	4.68
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	TOTAL:	15.76
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping
+	Price:	3.28
+	TOTAL:	3.28
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	4.43
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping
+	Price:	3.28
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	2.90
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.68
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	4.43
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	TOTAL:	60.32
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Shredded Carrot Topping, Soy Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.56
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce
+	Price:	3.69
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Honey Sauce, Cranberry Sauce
+	Price:	3.19
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.79
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	TOTAL:	67.14
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.02
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping
+	Price:	6.20
+	TOTAL:	78.36
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.85
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.07
+	TOTAL:	87.28
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.18
+	TOTAL:	4.18
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	3
+Sausage Roll	0
+Spring Roll	0
+
+TOTAL PAYMENTS:
+	Business:	55.26
+	Casual:	69.38
+	Catering:	362.62
+	OVERALL:	487.26
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	2
+	Catering:	2
+
+INVENTORY ORDERS:
+	Egg Roll:	25
+	Jelly Roll:	16
+	Pastry Roll:	7
+	Sausage Roll:	12
+	Spring Roll:	10
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	12
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	3
+Sausage Roll	30
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	Item:	Spring Roll, Meat Filling, Soy Sauce
+	Price:	4.35
+	TOTAL:	10.64
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	4.53
+	TOTAL:	14.39
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.10
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.04
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	4.60
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.35
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	5.57
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	6.19
+	TOTAL:	48.54
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.35
+	TOTAL:	4.35
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.78
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.90
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.78
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce
+	Price:	3.63
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	TOTAL:	62.67
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	TOTAL:	73.84
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping
+	Price:	5.02
+	TOTAL:	78.86
+
+Order for Casual Customer:
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.60
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	TOTAL:	9.89
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.52
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.99
+	TOTAL:	11.51
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	TOTAL:	11.31
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.87
+	TOTAL:	17.18
+
+END OF DAY INVENTORY:
+Egg Roll	7
+Jelly Roll	28
+Pastry Roll	0
+Sausage Roll	27
+Spring Roll	19
+
+TOTAL PAYMENTS:
+	Business:	48.54
+	Casual:	79.27
+	Catering:	215.37
+	OVERALL:	343.18
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	4
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	23
+	Jelly Roll:	2
+	Pastry Roll:	3
+	Sausage Roll:	3
+	Spring Roll:	11
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	13
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	7
+Jelly Roll	28
+Pastry Roll	30
+Sausage Roll	27
+Spring Roll	19
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	TOTAL:	9.96
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	Item:	Jelly Roll, Chocolate Topping
+	Price:	3.45
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	TOTAL:	12.10
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.87
+	Item:	Sausage Roll, Cheese Topping, Soy Sauce
+	Price:	4.52
+	TOTAL:	14.63
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Cranberry Sauce
+	Price:	2.95
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce
+	Price:	4.10
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	TOTAL:	12.89
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.38
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.33
+	Item:	Sausage Roll, Bacon Bits Topping
+	Price:	4.45
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	6.72
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping
+	Price:	5.02
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	TOTAL:	50.03
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	Item:	Jelly Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.55
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	TOTAL:	13.29
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.18
+	TOTAL:	8.38
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce
+	Price:	4.63
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Price:	2.50
+	TOTAL:	11.09
+
+Order for Catering Customer:
+	Price:	2.25
+	Item:	Jelly Roll, Frosting Filling, Cranberry Sauce
+	Price:	4.20
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	Item:	Sausage Roll, Spicy Mayo Sauce
+	Price:	3.90
+	Item:	Sausage Roll, Cheese Filling, Soy Sauce
+	Price:	5.37
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Soy Sauce
+	Price:	6.27
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.69
+	Item:	Spring Roll, Shredded Carrot Topping
+	Price:	3.77
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	5.12
+	TOTAL:	71.16
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	TOTAL:	5.84
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Shredded Carrot Topping
+	Price:	3.28
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	Item:	Jelly Roll, Chocolate Topping, Cranberry Sauce
+	Price:	4.15
+	Item:	Pastry Roll, Honey Sauce, Cranberry Sauce
+	Price:	2.88
+	Item:	Pastry Roll, Honey Sauce, Nutella Sauce
+	Price:	2.78
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.49
+	Item:	Sausage Roll, Sweet & Sour Sauce
+	Price:	3.72
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.60
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	TOTAL:	40.52
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.43
+	TOTAL:	5.43
+
+Order for Casual Customer:
+	Price:	3.00
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce
+	Price:	5.32
+	TOTAL:	8.32
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.49
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce
+	Price:	4.94
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	4.29
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.24
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.24
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.14
+	Item:	Jelly Roll, Honey Sauce, Nutella Sauce
+	Price:	3.09
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce
+	Price:	5.20
+	Price:	2.00
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.33
+	TOTAL:	72.30
+
+Order for Catering Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.70
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	4.60
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.18
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.33
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Nutella Sauce
+	Price:	4.28
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.68
+	Item:	Pastry Roll, Honey Sauce, Nutella Sauce
+	Price:	2.78
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce
+	Price:	4.05
+	TOTAL:	70.90
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.85
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	TOTAL:	9.10
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.54
+	Item:	Spring Roll, Soy Sauce
+	Price:	3.10
+	TOTAL:	16.74
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	0
+Sausage Roll	15
+Spring Roll	4
+
+TOTAL PAYMENTS:
+	Business:	90.55
+	Casual:	127.77
+	Catering:	214.36
+	OVERALL:	432.68
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	1
+	Catering:	2
+
+INVENTORY ORDERS:
+	Egg Roll:	6
+	Jelly Roll:	27
+	Pastry Roll:	29
+	Sausage Roll:	12
+	Spring Roll:	14
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	14
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	30
+Sausage Roll	15
+Spring Roll	4
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	TOTAL:	14.45
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	TOTAL:	7.71
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Jelly Roll, Honey Sauce, Cranberry Sauce
+	Price:	3.19
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce
+	Price:	3.73
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	5.08
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.97
+	Item:	Sausage Roll, Sweet & Sour Sauce
+	Price:	3.72
+	Item:	Spring Roll, Spicy Mayo Sauce
+	Price:	3.30
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.55
+	TOTAL:	44.28
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.90
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.53
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce
+	Price:	4.63
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	3.53
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.56
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.10
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	3.75
+	TOTAL:	66.73
+
+Order for Business Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	3.53
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	Item:	Pastry Roll, Sugar Topping
+	Price:	2.80
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Sausage Roll, Cheese Topping, Sweet & Sour Sauce
+	Price:	4.62
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.19
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.94
+	TOTAL:	44.00
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	TOTAL:	7.06
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.99
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	TOTAL:	17.29
+
+Order for Casual Customer:
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.58
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	TOTAL:	11.04
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	TOTAL:	3.43
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce
+	Price:	4.88
+	TOTAL:	8.31
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.39
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	TOTAL:	17.63
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Cranberry Sauce
+	Price:	2.95
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.39
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	4.90
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.68
+	Item:	Pastry Roll, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	3.93
+	Item:	Pastry Roll, Sugar Topping, Honey Sauce
+	Price:	3.03
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.00
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	6.77
+	Item:	Sausage Roll, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	4.67
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.49
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Price:	3.50
+	TOTAL:	77.17
+
+END OF DAY INVENTORY:
+Egg Roll	4
+Jelly Roll	15
+Pastry Roll	18
+Sausage Roll	4
+Spring Roll	0
+
+TOTAL PAYMENTS:
+	Business:	88.28
+	Casual:	86.92
+	Catering:	143.90
+	OVERALL:	319.10
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	1
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	26
+	Jelly Roll:	15
+	Pastry Roll:	12
+	Sausage Roll:	10
+	Spring Roll:	4
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	15
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	4
+Jelly Roll	15
+Pastry Roll	18
+Sausage Roll	4
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.11
+	TOTAL:	5.11
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.58
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Price:	2.25
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce
+	Price:	4.10
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.29
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Price:	2.25
+	Price:	2.25
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.39
+	TOTAL:	61.40
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.55
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.79
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.50
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce
+	Price:	3.70
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce
+	Price:	4.88
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	Item:	Pastry Roll, Cranberry Sauce
+	Price:	2.65
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.00
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.53
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.50
+	TOTAL:	68.53
+	Price:	3.00
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	TOTAL:	79.45
+
+Order for Casual Customer:
+	Price:	3.00
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping
+	Price:	5.02
+	TOTAL:	8.02
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce
+	Price:	3.70
+	TOTAL:	3.70
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	TOTAL:	11.46
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.87
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.87
+	TOTAL:	23.20
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	3
+Sausage Roll	2
+Spring Roll	25
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	51.49
+	Catering:	209.38
+	OVERALL:	260.87
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	2
+	Catering:	2
+
+INVENTORY ORDERS:
+	Egg Roll:	4
+	Jelly Roll:	12
+	Pastry Roll:	15
+	Sausage Roll:	2
+	Spring Roll:	3
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	16
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	3
+Sausage Roll	2
+Spring Roll	25
+
+CUSTOMER ORDERS:
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	3.85
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping
+	Price:	4.70
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Nutella Sauce
+	Price:	4.34
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.18
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.00
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.87
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Soy Sauce
+	Price:	5.47
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.04
+	Item:	Spring Roll, Spicy Mayo Sauce
+	Price:	3.30
+	TOTAL:	47.96
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	TOTAL:	53.65
+
+Order for Casual Customer:
+	Price:	2.00
+	TOTAL:	2.00
+
+Order for Catering Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.68
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Sweet & Sour Sauce
+	Price:	2.75
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.43
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	3.53
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	TOTAL:	58.89
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	4.45
+	Item:	Spring Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.37
+	TOTAL:	74.00
+
+END OF DAY INVENTORY:
+Egg Roll	13
+Jelly Roll	28
+Pastry Roll	0
+Sausage Roll	0
+Spring Roll	19
+
+TOTAL PAYMENTS:
+	Business:	101.61
+	Casual:	2.00
+	Catering:	132.89
+	OVERALL:	236.50
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	3
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	16
+	Jelly Roll:	2
+	Pastry Roll:	2
+	Sausage Roll:	2
+	Spring Roll:	6
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	17
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	13
+Jelly Roll	28
+Pastry Roll	30
+Sausage Roll	30
+Spring Roll	19
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	TOTAL:	10.54
+
+Order for Business Customer:
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Item:	Sausage Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.84
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	7.62
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.65
+	TOTAL:	48.50
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	5.19
+	TOTAL:	11.03
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Honey Sauce, Cranberry Sauce
+	Price:	3.19
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	TOTAL:	10.28
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.84
+	Item:	Sausage Roll, Cheese Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.59
+	TOTAL:	9.43
+
+Order for Casual Customer:
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	TOTAL:	9.14
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.42
+	TOTAL:	5.42
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Honey Sauce, Nutella Sauce
+	Price:	3.09
+	TOTAL:	3.09
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.02
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping
+	Price:	6.20
+	TOTAL:	15.47
+
+Order for Casual Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	TOTAL:	3.25
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	5.89
+	Item:	Spring Roll, Spicy Mayo Sauce
+	Price:	3.30
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.92
+	TOTAL:	14.11
+
+Order for Casual Customer:
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.04
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.74
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	TOTAL:	14.03
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.68
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	3.94
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce
+	Price:	4.05
+	Item:	Pastry Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	3.68
+	Item:	Sausage Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.84
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Sweet & Sour Sauce
+	Price:	6.37
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.92
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.65
+	TOTAL:	46.01
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	3.75
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.78
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Price:	2.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Chocolate Topping, Cranberry Sauce
+	Price:	3.80
+	Item:	Pastry Roll, Sugar Topping
+	Price:	2.80
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.83
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.87
+	Item:	Sausage Roll, Soy Sauce
+	Price:	3.62
+	Price:	3.50
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.87
+	Item:	Sausage Roll, Bacon Bits Topping
+	Price:	4.45
+	TOTAL:	62.87
+
+END OF DAY INVENTORY:
+Egg Roll	1
+Jelly Roll	17
+Pastry Roll	21
+Sausage Roll	16
+Spring Roll	8
+
+TOTAL PAYMENTS:
+	Business:	94.51
+	Casual:	105.79
+	Catering:	62.87
+	OVERALL:	263.17
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	11
+	Jelly Roll:	11
+	Pastry Roll:	9
+	Sausage Roll:	13
+	Spring Roll:	11
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	18
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	1
+Jelly Roll	17
+Pastry Roll	21
+Sausage Roll	16
+Spring Roll	8
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	6.42
+	TOTAL:	6.42
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.75
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Jelly Roll, Cranberry Sauce
+	Price:	2.95
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.89
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.29
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	5.00
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	TOTAL:	76.37
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Soy Sauce
+	Price:	5.47
+	TOTAL:	13.31
+
+Order for Casual Customer:
+	Price:	2.25
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	TOTAL:	6.04
+	Item:	Pastry Roll, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.03
+	TOTAL:	10.07
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	4.45
+	TOTAL:	4.45
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	1
+Pastry Roll	20
+Sausage Roll	13
+Spring Roll	7
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	40.29
+	Catering:	76.37
+	OVERALL:	116.66
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	3
+	Casual:	1
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	1
+	Jelly Roll:	15
+	Pastry Roll:	1
+	Sausage Roll:	3
+	Spring Roll:	1
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	19
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	1
+Pastry Roll	20
+Sausage Roll	13
+Spring Roll	7
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce
+	Price:	5.65
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	TOTAL:	16.25
+
+Order for Catering Customer:
+	Item:	Egg Roll, Sweet & Sour Sauce
+	Price:	2.75
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.11
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Soy Sauce
+	Price:	2.65
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.56
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	TOTAL:	60.30
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce
+	Price:	4.45
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.42
+	Item:	Spring Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.87
+	TOTAL:	13.74
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.54
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.54
+	TOTAL:	20.18
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.97
+	TOTAL:	10.22
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.31
+	TOTAL:	4.31
+
+END OF DAY INVENTORY:
+Egg Roll	14
+Jelly Roll	1
+Pastry Roll	20
+Sausage Roll	5
+Spring Roll	4
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	64.70
+	Catering:	60.30
+	OVERALL:	125.00
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	0
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	16
+	Jelly Roll:	0
+	Pastry Roll:	0
+	Sausage Roll:	8
+	Spring Roll:	3
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	20
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	14
+Jelly Roll	1
+Pastry Roll	20
+Sausage Roll	5
+Spring Roll	4
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.29
+	Item:	Spring Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.30
+	TOTAL:	9.59
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.10
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.78
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.78
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	TOTAL:	61.41
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.38
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.38
+	TOTAL:	75.90
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.02
+	TOTAL:	4.02
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	3.68
+	TOTAL:	12.91
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	14
+Sausage Roll	4
+Spring Roll	2
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	26.52
+	Catering:	137.31
+	OVERALL:	163.83
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	1
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	14
+	Jelly Roll:	1
+	Pastry Roll:	6
+	Sausage Roll:	1
+	Spring Roll:	2
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	21
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	14
+Sausage Roll	4
+Spring Roll	2
+
+CUSTOMER ORDERS:
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce
+	Price:	4.59
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Cranberry Sauce
+	Price:	4.95
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Spring Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.55
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.07
+	TOTAL:	45.20
+
+Order for Catering Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	4.31
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	3.85
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.78
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	2.90
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.78
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	TOTAL:	63.21
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	TOTAL:	4.28
+
+END OF DAY INVENTORY:
+Egg Roll	12
+Jelly Roll	28
+Pastry Roll	12
+Sausage Roll	2
+Spring Roll	0
+
+TOTAL PAYMENTS:
+	Business:	45.20
+	Casual:	4.28
+	Catering:	63.21
+	OVERALL:	112.69
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	0
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	18
+	Jelly Roll:	2
+	Pastry Roll:	2
+	Sausage Roll:	2
+	Spring Roll:	2
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	22
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	12
+Jelly Roll	28
+Pastry Roll	12
+Sausage Roll	2
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	3.85
+	Item:	Egg Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	2.90
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.11
+	Price:	2.50
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	TOTAL:	58.22
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce
+	Price:	4.59
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.24
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.00
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce
+	Price:	3.74
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	Price:	2.25
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	TOTAL:	70.01
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	7.72
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping
+	Price:	6.20
+	TOTAL:	13.92
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.89
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.24
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce
+	Price:	4.10
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.39
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.04
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	5.00
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.24
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.23
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce
+	Price:	4.85
+	Item:	Pastry Roll, Nutella Sauce
+	Price:	2.55
+	TOTAL:	74.45
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	TOTAL:	78.12
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	7
+Sausage Roll	0
+Spring Roll	29
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	13.92
+	Catering:	280.80
+	OVERALL:	294.72
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	2
+	Catering:	3
+
+INVENTORY ORDERS:
+	Egg Roll:	10
+	Jelly Roll:	27
+	Pastry Roll:	5
+	Sausage Roll:	2
+	Spring Roll:	1
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	23
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	7
+Sausage Roll	30
+Spring Roll	29
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.50
+	TOTAL:	3.50
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.39
+	TOTAL:	4.39
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce
+	Price:	3.73
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.18
+	TOTAL:	12.49
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.03
+	TOTAL:	4.03
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Cheese Filling, Soy Sauce
+	Price:	5.37
+	TOTAL:	13.85
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.04
+	TOTAL:	4.04
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.88
+	Item:	Egg Roll, Bean Sprouts Topping, Soy Sauce
+	Price:	3.33
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.90
+	Item:	Egg Roll, Shredded Carrot Topping, Soy Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Soy Sauce
+	Price:	4.33
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.78
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.10
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Soy Sauce
+	Price:	4.43
+	Price:	2.50
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	TOTAL:	59.21
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	TOTAL:	12.29
+
+Order for Business Customer:
+	Item:	Egg Roll, Shredded Carrot Topping
+	Price:	3.28
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.64
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.23
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	6.72
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.89
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	Price:	3.00
+	TOTAL:	46.45
+
+Order for Casual Customer:
+	Item:	Spring Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.30
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	3.97
+	TOTAL:	7.27
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	TOTAL:	11.49
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	TOTAL:	7.10
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.07
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.44
+	Item:	Sausage Roll, Cheese Topping
+	Price:	4.40
+	TOTAL:	16.91
+
+END OF DAY INVENTORY:
+Egg Roll	13
+Jelly Roll	24
+Pastry Roll	1
+Sausage Roll	19
+Spring Roll	24
+
+TOTAL PAYMENTS:
+	Business:	46.45
+	Casual:	97.36
+	Catering:	59.21
+	OVERALL:	203.02
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	0
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	16
+	Jelly Roll:	6
+	Pastry Roll:	6
+	Sausage Roll:	11
+	Spring Roll:	4
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	24
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	13
+Jelly Roll	24
+Pastry Roll	1
+Sausage Roll	19
+Spring Roll	24
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	TOTAL:	10.13
+
+Order for Casual Customer:
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.54
+	Item:	Spring Roll, Meat Filling, Soy Sauce
+	Price:	4.35
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.84
+	TOTAL:	13.73
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.10
+	TOTAL:	6.10
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	TOTAL:	11.34
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	4.90
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Sugar Topping, Cranberry Sauce
+	Price:	3.80
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.14
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping
+	Price:	5.35
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.97
+	Item:	Sausage Roll, Cheese Filling, Sweet & Sour Sauce
+	Price:	5.47
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.75
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.44
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.52
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	Item:	Spring Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.50
+	TOTAL:	72.60
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	TOTAL:	13.60
+
+END OF DAY INVENTORY:
+Egg Roll	10
+Jelly Roll	18
+Pastry Roll	0
+Sausage Roll	14
+Spring Roll	14
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	54.90
+	Catering:	72.60
+	OVERALL:	127.50
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	3
+	Casual:	2
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	3
+	Jelly Roll:	6
+	Pastry Roll:	1
+	Sausage Roll:	5
+	Spring Roll:	10
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	25
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	10
+Jelly Roll	18
+Pastry Roll	30
+Sausage Roll	14
+Spring Roll	14
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	TOTAL:	7.20
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.43
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.89
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Nutella Sauce
+	Price:	4.28
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Sausage Roll, Cheese Topping
+	Price:	4.40
+	Item:	Sausage Roll, Cheese Filling, Sweet & Sour Sauce
+	Price:	5.47
+	Item:	Spring Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.27
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	5.69
+	TOTAL:	49.23
+
+Order for Business Customer:
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	Price:	2.00
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.89
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	5.22
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.74
+	TOTAL:	40.89
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.79
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	5.54
+	TOTAL:	11.33
+
+Order for Catering Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce
+	Price:	4.59
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce
+	Price:	3.74
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.89
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce
+	Price:	4.05
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Price:	2.00
+	Item:	Pastry Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.43
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.44
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.19
+	Item:	Sausage Roll, Cheese Topping
+	Price:	4.40
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	6.82
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.44
+	TOTAL:	73.46
+
+END OF DAY INVENTORY:
+Egg Roll	6
+Jelly Roll	5
+Pastry Roll	21
+Sausage Roll	5
+Spring Roll	10
+
+TOTAL PAYMENTS:
+	Business:	90.12
+	Casual:	18.53
+	Catering:	73.46
+	OVERALL:	182.11
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	0
+	Casual:	0
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	3
+	Jelly Roll:	13
+	Pastry Roll:	7
+	Sausage Roll:	9
+	Spring Roll:	4
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	26
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	6
+Jelly Roll	5
+Pastry Roll	21
+Sausage Roll	5
+Spring Roll	10
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	TOTAL:	4.25
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Soy Sauce
+	Price:	4.33
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.00
+	Item:	Egg Roll, Meat Filling, Soy Sauce
+	Price:	3.65
+	TOTAL:	11.98
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.83
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce
+	Price:	4.05
+	TOTAL:	8.88
+
+Order for Casual Customer:
+	Price:	3.50
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.09
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.94
+	TOTAL:	16.53
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce
+	Price:	6.15
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.99
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.79
+	Item:	Jelly Roll, Frosting Filling, Cranberry Sauce
+	Price:	4.20
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Cranberry Sauce
+	Price:	4.95
+	Item:	Pastry Roll, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	3.93
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Nutella Sauce
+	Price:	4.28
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.23
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.83
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.08
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce, Cranberry Sauce
+	Price:	4.70
+	TOTAL:	72.45
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.22
+	Item:	Spring Roll, Meat Filling
+	Price:	4.25
+	TOTAL:	81.92
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.52
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	4.55
+	TOTAL:	91.99
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.50
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.23
+	TOTAL:	108.60
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping
+	Price:	4.65
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Nutella Sauce
+	Price:	6.23
+	TOTAL:	10.88
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.93
+	Item:	Pastry Roll, Cheese Filling
+	Price:	3.50
+	TOTAL:	26.19
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.44
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	TOTAL:	11.68
+	Item:	Spring Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.54
+	TOTAL:	16.22
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	3
+Sausage Roll	0
+Spring Roll	5
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	106.61
+	Catering:	354.96
+	OVERALL:	461.57
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	6
+	Catering:	3
+
+INVENTORY ORDERS:
+	Egg Roll:	6
+	Jelly Roll:	5
+	Pastry Roll:	18
+	Sausage Roll:	4
+	Spring Roll:	5
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	27
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	3
+Sausage Roll	30
+Spring Roll	5
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Sweet & Sour Sauce
+	Price:	7.32
+	Item:	Sausage Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.84
+	Price:	3.50
+	TOTAL:	14.66
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Price:	2.50
+	Item:	Jelly Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.64
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Pastry Roll, Chocolate Topping, Honey Sauce
+	Price:	3.38
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.02
+	Item:	Sausage Roll, Cheese Filling, Bacon Bits Topping, Soy Sauce
+	Price:	6.32
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	Price:	3.00
+	TOTAL:	41.34
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Soy Sauce
+	Price:	2.65
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Price:	2.50
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.88
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.11
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	TOTAL:	58.01
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.88
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	3.53
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.46
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.58
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping
+	Price:	4.35
+	TOTAL:	64.93
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	26
+Pastry Roll	1
+Sausage Roll	25
+Spring Roll	3
+
+TOTAL PAYMENTS:
+	Business:	41.34
+	Casual:	14.66
+	Catering:	122.94
+	OVERALL:	178.94
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	0
+	Catering:	2
+
+INVENTORY ORDERS:
+	Egg Roll:	27
+	Jelly Roll:	4
+	Pastry Roll:	2
+	Sausage Roll:	4
+	Spring Roll:	1
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	28
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	26
+Pastry Roll	1
+Sausage Roll	25
+Spring Roll	3
+
+CUSTOMER ORDERS:
+
+Order for Casual Customer:
+	Item:	Egg Roll, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	3.43
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.46
+	TOTAL:	12.82
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.99
+	TOTAL:	5.99
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Cranberry Sauce
+	Price:	2.95
+	TOTAL:	2.95
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	3.85
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Egg Roll, Shredded Carrot Topping
+	Price:	3.28
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	4.53
+	Item:	Jelly Roll, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	4.39
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	5.79
+	Item:	Jelly Roll, Honey Sauce, Nutella Sauce
+	Price:	3.09
+	Item:	Jelly Roll, Cranberry Sauce
+	Price:	2.95
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Soy Sauce
+	Price:	7.22
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.99
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce
+	Price:	7.50
+	TOTAL:	74.98
+
+Order for Casual Customer:
+	Price:	3.50
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	4.12
+	Price:	3.50
+	TOTAL:	11.12
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce
+	Price:	4.10
+	Item:	Jelly Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.75
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	TOTAL:	11.70
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	TOTAL:	4.46
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	5.12
+	TOTAL:	5.12
+
+Order for Casual Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	TOTAL:	5.70
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	7.09
+	TOTAL:	7.09
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	TOTAL:	5.15
+
+Order for Catering Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	Item:	Egg Roll, Spicy Mayo Sauce
+	Price:	2.85
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.71
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce
+	Price:	4.94
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Jelly Roll, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	3.79
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.84
+	Item:	Sausage Roll, Cheese Filling, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.77
+	Item:	Sausage Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.24
+	Item:	Sausage Roll, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.07
+	Item:	Sausage Roll, Soy Sauce
+	Price:	3.62
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	7.62
+	TOTAL:	67.59
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Topping, Soy Sauce
+	Price:	4.52
+	TOTAL:	4.52
+
+Order for Casual Customer:
+	Item:	Sausage Roll, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	5.87
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	6.77
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	TOTAL:	19.74
+
+Order for Catering Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Shredded Carrot Topping, Soy Sauce
+	Price:	3.43
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	4.46
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.11
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Soy Sauce
+	Price:	4.33
+	Item:	Egg Roll, Meat Filling, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.90
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce
+	Price:	4.63
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	4.53
+	Item:	Jelly Roll, Sugar Topping
+	Price:	3.10
+	TOTAL:	59.95
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	10
+Pastry Roll	0
+Sausage Roll	7
+Spring Roll	2
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	96.36
+	Catering:	202.52
+	OVERALL:	298.88
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	3
+	Casual:	0
+	Catering:	1
+
+INVENTORY ORDERS:
+	Egg Roll:	29
+	Jelly Roll:	16
+	Pastry Roll:	1
+	Sausage Roll:	16
+	Spring Roll:	1
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	29
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	10
+Pastry Roll	30
+Sausage Roll	7
+Spring Roll	2
+
+CUSTOMER ORDERS:
+
+Order for Business Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.36
+	Item:	Egg Roll, Meat Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.04
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Cranberry Sauce
+	Price:	5.40
+	Item:	Pastry Roll, Cheese Filling, Honey Sauce, Nutella Sauce
+	Price:	4.28
+	Price:	2.00
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.14
+	Item:	Sausage Roll, Cheese Filling
+	Price:	5.25
+	Item:	Spring Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.37
+	Item:	Spring Roll, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.30
+	TOTAL:	43.64
+
+Order for Catering Customer:
+	Item:	Egg Roll, Bean Sprouts Topping
+	Price:	3.18
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Price:	2.50
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	4.53
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.03
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.78
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce
+	Price:	3.53
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.71
+	Item:	Egg Roll, Spicy Mayo Sauce, Soy Sauce
+	Price:	3.00
+	TOTAL:	61.53
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.24
+	Item:	Jelly Roll, Frosting Filling, Honey Sauce, Cranberry Sauce
+	Price:	4.44
+	TOTAL:	9.68
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping
+	Price:	4.28
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.93
+	TOTAL:	13.52
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.68
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	3.85
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.93
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.11
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	4.11
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce
+	Price:	4.63
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.36
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.31
+	Item:	Jelly Roll, Nutella Sauce
+	Price:	2.85
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	6.49
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.85
+	Item:	Jelly Roll, Frosting Filling
+	Price:	3.50
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	TOTAL:	71.31
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Cranberry Sauce
+	Price:	5.05
+	TOTAL:	76.36
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	TOTAL:	79.51
+
+Order for Catering Customer:
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	5.08
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	6.65
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce
+	Price:	3.70
+	Item:	Pastry Roll, Nutella Sauce, Cranberry Sauce
+	Price:	3.20
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.73
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Sugar Topping, Cranberry Sauce
+	Price:	3.45
+	Item:	Pastry Roll, Cheese Filling, Chocolate Topping, Nutella Sauce
+	Price:	5.20
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.00
+	Item:	Pastry Roll, Sugar Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.23
+	Item:	Pastry Roll, Cheese Filling, Nutella Sauce
+	Price:	4.05
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.18
+	Item:	Pastry Roll, Chocolate Topping
+	Price:	3.15
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	4.58
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	4.60
+	TOTAL:	68.18
+
+END OF DAY INVENTORY:
+Egg Roll	0
+Jelly Roll	0
+Pastry Roll	12
+Sausage Roll	5
+Spring Roll	0
+
+TOTAL PAYMENTS:
+	Business:	43.64
+	Casual:	23.20
+	Catering:	356.89
+	OVERALL:	423.73
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	2
+	Casual:	2
+	Catering:	3
+
+INVENTORY ORDERS:
+	Egg Roll:	29
+	Jelly Roll:	10
+	Pastry Roll:	17
+	Sausage Roll:	2
+	Spring Roll:	2
+
+STORE CLOSED TODAY:	false
+
+
+-----------------
+DAY NUMBER:	30
+-----------------
+START OF DAY INVENTORY:
+Egg Roll	30
+Jelly Roll	30
+Pastry Roll	12
+Sausage Roll	5
+Spring Roll	30
+
+CUSTOMER ORDERS:
+
+Order for Catering Customer:
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	Item:	Egg Roll, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	3.53
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	3.10
+	Item:	Egg Roll, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.03
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	4.96
+	Item:	Pastry Roll, Chocolate Topping, Cranberry Sauce
+	Price:	3.80
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	5.38
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping
+	Price:	7.10
+	Item:	Sausage Roll, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.14
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	6.89
+	Item:	Sausage Roll, Sweet & Sour Sauce
+	Price:	3.72
+	Item:	Sausage Roll, Cheese Filling, Cheese Topping, Bacon Bits Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	7.84
+	TOTAL:	73.87
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce, Nutella Sauce
+	Price:	5.19
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	TOTAL:	81.55
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping, Honey Sauce
+	Price:	4.54
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping, Cranberry Sauce
+	Price:	6.25
+	TOTAL:	10.79
+
+Order for Casual Customer:
+	Item:	Egg Roll, Shredded Carrot Topping, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.68
+	Item:	Egg Roll, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	3.25
+	TOTAL:	6.93
+
+Order for Casual Customer:
+	Item:	Egg Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce, Sweet & Sour Sauce
+	Price:	5.56
+	TOTAL:	5.56
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping
+	Price:	3.96
+	TOTAL:	9.52
+	Item:	Spring Roll, Bean Sprouts Topping
+	Price:	3.67
+	TOTAL:	13.19
+
+Order for Casual Customer:
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	5.15
+	Item:	Pastry Roll, Sugar Topping, Chocolate Topping
+	Price:	3.95
+	TOTAL:	9.10
+
+Order for Catering Customer:
+	Item:	Egg Roll, Meat Filling, Bean Sprouts Topping
+	Price:	4.18
+	Item:	Egg Roll, Sweet & Sour Sauce
+	Price:	2.75
+	Item:	Egg Roll, Soy Sauce
+	Price:	2.65
+	Item:	Egg Roll, Meat Filling, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	4.25
+	Item:	Egg Roll, Shredded Carrot Topping, Bean Sprouts Topping, Sweet & Sour Sauce
+	Price:	4.21
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Sugar Topping, Chocolate Topping
+	Price:	4.30
+	Item:	Jelly Roll, Honey Sauce
+	Price:	2.49
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Chocolate Topping
+	Price:	5.55
+	Item:	Jelly Roll, Frosting Filling, Sugar Topping, Honey Sauce
+	Price:	4.59
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping
+	Price:	5.45
+	Price:	2.00
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping, Chocolate Topping, Nutella Sauce, Honey Sauce, Cranberry Sauce
+	Price:	6.88
+	Item:	Pastry Roll, Chocolate Topping, Nutella Sauce, Cranberry Sauce
+	Price:	4.35
+	Item:	Pastry Roll, Cheese Filling, Sugar Topping
+	Price:	4.30
+	TOTAL:	63.50
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Soy Sauce
+	Price:	5.79
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	Item:	Spring Roll, Meat Filling, Spicy Mayo Sauce
+	Price:	4.55
+	TOTAL:	15.96
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Bean Sprouts Topping, Spicy Mayo Sauce
+	Price:	5.99
+	TOTAL:	5.99
+
+Order for Casual Customer:
+	Item:	Jelly Roll, Frosting Filling, Chocolate Topping, Honey Sauce, Cranberry Sauce
+	Price:	5.64
+	Item:	Jelly Roll, Chocolate Topping
+	Price:	3.45
+	TOTAL:	9.09
+
+Order for Casual Customer:
+	Item:	Spring Roll, Meat Filling, Bean Sprouts Topping, Soy Sauce
+	Price:	5.02
+	Item:	Spring Roll, Meat Filling, Shredded Carrot Topping, Spicy Mayo Sauce, Sweet & Sour Sauce, Soy Sauce
+	Price:	5.62
+	TOTAL:	10.64
+
+END OF DAY INVENTORY:
+Egg Roll	16
+Jelly Roll	19
+Pastry Roll	0
+Sausage Roll	0
+Spring Roll	23
+
+TOTAL PAYMENTS:
+	Business:	0.00
+	Casual:	96.77
+	Catering:	218.92
+	OVERALL:	315.69
+
+ORDERS IMPACTED BY OUTAGES:
+	Business:	1
+	Casual:	3
+	Catering:	0
+
+INVENTORY ORDERS:
+	Egg Roll:	14
+	Jelly Roll:	11
+	Pastry Roll:	11
+	Sausage Roll:	5
+	Spring Roll:	7
+
+STORE CLOSED TODAY:	false
+
+
+======================
+OVERALL FOR 30 DAYS:
+======================
+TOTAL ROLLS SOLD:
+	Egg Roll:	444
+	Jelly Roll:	300
+	Pastry Roll:	260
+	Sausage Roll:	200
+	Spring Roll:	177
+	OVERALL:	1381
+
+TOTAL SALES:	8109.57
+
+TOTAL ROLL OUTAGE IMPACTS:	117
